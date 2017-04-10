@@ -1,0 +1,746 @@
+ADVLIST: 4
+WEPLIST: 102
+ARMLIST: 18
+annacouch
+19
+9
+16
+11
+9
+12
+CURRWEP: 0
+CURRARM: 0
+WEPINVI: 0
+ARMINVI: 0
+zeta mavrick
+8
+20
+16
+5
+3
+7
+CURRWEP: 0
+CURRARM: 0
+WEPINVI: 0
+ARMINVI: 0
+womys
+11
+5
+10
+18
+13
+12
+CURRWEP: 1
+NONE
+Scythe
+NONE
+0
+0
+0
+CURRARM: 0
+WEPINVI: 0
+ARMINVI: 0
+laxoholic26
+6
+5
+11
+19
+12
+2
+CURRWEP: 1
+NONE
+Iron Gauntlets
+NONE
+0
+0
+0
+CURRARM: 0
+WEPINVI: 0
+ARMINVI: 0
+ALLWEPS
+Astral
+Sickle
+Fox
+0
+0
+0
+Sharp
+Death Scythe
+Transcendence
+0
+0
+0
+Godly
+Tiger Hook Sword
+Readiness
+0
+0
+0
+Knight's
+Throwing Star
+Winter
+0
+0
+0
+Lord's
+Tooth Dagger
+Perfection
+0
+0
+0
+Snowy
+Parrying Dagger
+Pestilence
+0
+0
+0
+Strong
+Finger Armor Daggers
+Excellence
+0
+0
+0
+Blessed
+Bastard Sword
+Colossus
+0
+0
+0
+Grinding
+Sewing Needle
+Might
+0
+0
+0
+Sharp
+Great Scythe
+Alacrity
+0
+0
+0
+Meteoric
+Long Nordic Axe
+Lightning
+0
+0
+0
+Master's
+Anchor
+Evisceration
+0
+0
+0
+Sturdy
+Scythe
+Slaying
+0
+0
+0
+Saintly
+Heavy Pickaxe
+Blight
+0
+0
+0
+Divine
+Scythe
+Burning
+0
+0
+0
+Glowing
+Karambit
+Burning
+0
+0
+0
+Astral
+Bayonet
+Gore
+0
+0
+0
+Septic
+War Saw
+Giant
+0
+0
+0
+Visionary
+Scissor Sword
+Pestilence
+0
+0
+0
+Buzzing
+Dwarven Urgrosh
+Piercing
+0
+0
+0
+Astral
+Iron Gauntlets
+Slaughter
+0
+0
+0
+Septic
+Kpinga
+Piercing
+0
+0
+0
+Astral
+Wooden Bow
+Perfection
+0
+0
+0
+Pestilent
+Cestus
+Accuracy
+0
+0
+0
+Deadly
+Boomerang
+Gore
+0
+0
+0
+Septic
+Bayonet
+Frost
+0
+0
+0
+King's
+Finger Armor Daggers
+Storms
+0
+0
+0
+Corrosive
+Banderilla
+Wolf
+0
+0
+0
+Merciless
+Dwarven Urgrosh
+Fox
+0
+0
+0
+Shocking
+Longspear
+Might
+0
+0
+0
+Glorious
+Double Axe
+Performance
+0
+0
+0
+Pure
+Plague Lancet
+Whale
+0
+0
+0
+Weird
+Flindbar
+Evisceration
+0
+0
+0
+Sharp
+Spiked Greatclub
+Quality
+0
+0
+0
+Arcing
+Cutlass
+Worth
+0
+0
+0
+Blessed
+Dragon Thorn
+Bear
+0
+0
+0
+Foul
+Throwing Glaive
+Slaying
+0
+0
+0
+Savage
+Falchion
+Glacier
+0
+0
+0
+Divine
+Katana
+Giant
+0
+0
+0
+Arcadian
+Two-Handed Morningstar
+Butchery
+0
+0
+0
+Meteoric
+Boar Spear
+Titan
+0
+0
+0
+Astral
+Tricera Sword
+Titan
+0
+0
+0
+Weird
+Great Machete
+Evisceration
+0
+0
+0
+Shivering
+Broad Claw
+Lightning
+0
+0
+0
+Consecrated
+War Saw
+Slaying
+0
+0
+0
+Knight's
+Warglaive
+Frost
+0
+0
+0
+Blessed
+Arming Sword
+Incineration
+0
+0
+0
+Lunar
+Giant Axe
+Butchery
+0
+0
+0
+Grinding
+Bladed Gauntlet
+Vileness
+0
+0
+0
+Sturdy
+Sword Breaker
+Precision
+0
+0
+0
+Corrosive
+Dueling Shield
+Dexterity
+0
+0
+0
+Hallowed
+Great Machete
+Dexterity
+0
+0
+0
+Merciless
+Spiked Greatclub
+Alacrity
+0
+0
+0
+Lord's
+Iron Gauntlets
+Vileness
+0
+0
+0
+Strange
+Boar Spear
+Swords
+0
+0
+0
+Weird
+Parrying Dagger
+Anthrax
+0
+0
+0
+Icey
+Boomerang
+Maiming
+0
+0
+0
+Knight's
+Spiked Greatclub
+Razors
+0
+0
+0
+--
+Two-Handed Morningstar
+Transcendence
+0
+0
+0
+Jagged
+Steel Gauntlets
+Titan
+0
+0
+0
+Sacred
+Spiked Greatclub
+Quality
+0
+0
+0
+Soldier's
+Torch Mace
+Perfection
+0
+0
+0
+Master's
+Arming Sword
+Frost
+0
+0
+0
+Warrior's
+Tooth Dagger
+Anthrax
+0
+0
+0
+--
+War Saw
+Lightning
+0
+0
+0
+Lord's
+Heavy Flail
+Apprentice
+0
+0
+0
+Foul
+Steel Gauntlets
+Dexterity
+0
+0
+0
+Pestilent
+Chainsaw
+Fox
+0
+0
+0
+Snowy
+Kpinga
+Ox
+0
+0
+0
+Divine
+Meteor Hammer
+Maiming
+0
+0
+0
+Sacred
+Dueling Shield
+Thorns
+0
+0
+0
+King's
+Dueling Shield
+Lightning
+0
+0
+0
+Static
+Giant Club
+Incineration
+0
+0
+0
+Celestial
+Fauchard
+Butchery
+0
+0
+0
+Lord's
+Kpinga
+Atlas
+0
+0
+0
+Smoldering
+Sword Breaker
+Whale
+0
+0
+0
+Vicious
+Longblade
+Carnage
+0
+0
+0
+Strong
+Doctor's Cane
+Gore
+0
+0
+0
+Fiery
+Heavy Pickaxe
+Maiming
+0
+0
+0
+Hibernal
+Godentag
+--
+0
+0
+0
+Massive
+Greatspear
+Apprentice
+0
+0
+0
+Smoldering
+Diamond Sword
+Titan
+0
+0
+0
+Saintly
+Elven Thinblade
+Nirvana
+0
+0
+0
+Buzzing
+Sewing Needle
+Venom
+0
+0
+0
+Hallowed
+Scissor Sword
+Excellence
+0
+0
+0
+Soldier's
+Tooth Dagger
+Wolf
+0
+0
+0
+Septic
+Scythe
+Flame
+0
+0
+0
+Elysian
+Balisong
+Thunder
+0
+0
+0
+Lord's
+Parrying Dagger
+Maiming
+0
+0
+0
+Fool's
+Winged Punching Blade
+--
+0
+0
+0
+Pestilent
+Warglaive
+Pestilence
+0
+0
+0
+Consecrated
+Wooden Bow
+Fuckery
+0
+0
+0
+Soldier's
+Meteor Hammer
+Maiming
+0
+0
+0
+Smoking
+Folding Sword
+Mammoth
+0
+0
+0
+Deadly
+Falchion
+Ox
+0
+0
+0
+Fool's
+Balisong
+Excellence
+0
+0
+0
+Smoking
+Slingstaff
+Swiftness
+0
+0
+0
+Godly
+Flindbar
+Whale
+0
+0
+0
+Master's
+Tooth Dagger
+Nirvana
+0
+0
+0
+Brutal
+Knuckle Axe
+Slaying
+0
+0
+0
+King's
+Sickle
+Ox
+0
+0
+0
+Elysian
+Threaded Cane
+Winter
+0
+0
+0
+ALLARMS
+Light steel shield
+
+0
+RESLIST: 0
+Studded leather armor
+
+0
+RESLIST: 0
+Full plate armor
+
+0
+RESLIST: 0
+Full plate armor
+
+0
+RESLIST: 0
+Breastplate armor
+
+0
+RESLIST: 0
+Banded mail armor
+
+0
+RESLIST: 0
+Padded armor
+
+0
+RESLIST: 0
+Light steel shield
+
+0
+RESLIST: 0
+Heavy wooden shield
+
+0
+RESLIST: 0
+Splint mail armor
+
+0
+RESLIST: 0
+Splint mail armor
+
+0
+RESLIST: 0
+Half-plate armor
+
+0
+RESLIST: 0
+Banded mail armor
+
+0
+RESLIST: 0
+Scale mail armor
+
+0
+RESLIST: 0
+Chain shirt armor
+
+0
+RESLIST: 0
+Heavy steel shield
+
+0
+RESLIST: 0
+Scale mail armor
+
+0
+RESLIST: 0
+Leather armor
+
+0
+RESLIST: 0
+END SAVE FILE

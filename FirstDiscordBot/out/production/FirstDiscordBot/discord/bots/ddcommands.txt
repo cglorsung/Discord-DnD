@@ -1,0 +1,18 @@
+Prefix commands with two asterisks and dd [ex. **ddhelp]
+ddhelp - get this message
+ddprocess - explains how to enter the dungeon properly
+rollDice:x - roll a die
+ddRollTraits - roll a d20 for character traits
+ddMyStats - get your stats
+ddMyInv - get your inventory
+ddEquipWeapon - equip a weapon from your inventory
+ddEquipArmor - equip an armor from your inventory
+ddweapons - print all of the weapons
+ddGetNWeapon - get a random normal weapon from the list
+ddGetAdvWeapon - get a random advanced weapon from the list
+ddarmors - get the list of armors
+ddGetArmor - get a random piece of armor
+ddGetPlayers - print all of the current players
+ddNewGame - reset all variables
+ddSaveGame - save all variables (will overwrite any previous save file)
+ddLoadGame - load last save

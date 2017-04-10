@@ -1,0 +1,18 @@
+Padded armor
+Leather armor
+Studded leather armor
+Chain shirt armor
+Hide armor
+Scale mail armor
+Chainmail armor
+Breastplate armor
+Splint mail armor
+Banded mail armor
+Half-plate armor
+Full plate armor
+Buckler armor
+Light wooden shield
+Light steel shield
+Heavy wooden shield
+Heavy steel shield
+Tower shield
