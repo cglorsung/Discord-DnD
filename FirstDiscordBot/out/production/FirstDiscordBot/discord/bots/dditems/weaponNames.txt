@@ -1,0 +1,102 @@
+Amputation Knife
+Balisong
+Banderilla
+Bayonet
+Bone Club
+Brandistock
+Brass Knuckles
+Broad Claw
+Broken Sword
+Cestus
+Doctor's Cane
+Double Spear
+Fauchard
+Finger Armor Daggers
+Godentag
+Greatspear
+Iron Claw
+Iron Gauntlets
+Karambit
+Knife
+Knuckle Axe
+Kpinga
+Leather Gauntlets
+Monk's Glaive
+Quarterstaff
+Raptor Claw
+Scythe
+Sickle
+Steel Gauntlets
+Stiletto Knife
+Tooth Dagger
+Torch Mace
+Torch Staff
+War Ribbon
+Wooden Bow
+Boomerang
+Fairy Bow
+Plague Lancet
+Sewing Needle
+Slingstaff
+Throwing Star
+Anchor
+AnkyloTail
+Arming Sword
+Back Sword
+Bastard Sword
+Bladed Fist
+Bladed Gauntlet
+Boar Spear
+Broadsword
+Buster Sword
+Chain-Dagger
+Chainsaw
+Crescent Cleaver
+Cutlass
+Death Scythe
+Diamond Sword
+Double Axe
+Double Flail
+Double Sword
+Dragon Thorn
+Dueling Shield
+Dwarven Urgrosh
+Elven Lance
+Elven Lightblade
+Elven Thinblade
+Falchion
+Flanged Mace
+Flindbar
+Folding Sword
+Giant Axe
+Giant Club
+Great Machete
+Great Maul
+Great Scythe
+Heavy Flail
+Heavy Pickaxe
+Katana
+Lhang
+Long Cane
+Long Nordic Axe
+Longblade
+Longspear
+Longstaff
+Main Gauche
+Man Catcher
+Masters Whip
+Meteor Hammer
+Parrying Dagger
+Poleaxe
+Scissor Sword
+Short Glaive
+Spiked Greatclub
+Sword Breaker
+Threaded Cane
+Throwing Glaive
+Tiger Hook Sword
+Tricera Sword
+Two-Handed Morningstar
+War Saw
+Warglaive
+Winged Punching Blade

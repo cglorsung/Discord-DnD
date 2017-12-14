@@ -1,0 +1,9 @@
+Prefix commands with two asterisks [ex. **help]
+help - get this message
+ddhelp - get the D&D help message
+time - get the current time
+joke - let me tell you a joke
+tellmethatjoke - tells a joke
+rollDice:x - rolls a die
+diceVerify - prints out the dice code & equation
+music - some good music

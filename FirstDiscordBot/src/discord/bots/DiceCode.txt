@@ -1,0 +1,12 @@
+//Roll a die based on the input user has given
+private static String rollDice(MessageReceivedEvent event, String s) {
+    String base = "The results are in: ";
+    int x = Integer.parseInt(s.substring(11, s.length()));
+    String roll = String.valueOf(genRand(1, x));
+    return base+roll;
+}
+
+//Generate random numbers between int min & int max
+private static int genRand(int min, int max) {
+    return (min+(int)(Math.random()*((max - min) + 1)));
+}
