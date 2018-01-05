@@ -1,0 +1,16 @@
+# Compiled classes
+*.class
+
+# Log files
+*.log
+
+# Sensitive text
+token.txt
+DiceCode.txt
+
+# Directories
+out/
+src/discord.bots/Logs/
+
+# Misc files
+*.iml
